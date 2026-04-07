@@ -1,7 +1,0 @@
-1)open anaconda prompt
-
-2)activate myenv
-
-3)cd C:\Users\logan\OneDrive\Desktop\Kitchen\Kitchen
-
-4)python app.py
